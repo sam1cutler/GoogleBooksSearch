@@ -1,0 +1,15 @@
+.search-form-sub-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.type-inputs-item {
+    margin: 0px 45px;
+}
+
+button {
+    height: 20px;
+    margin-left: 30px;
+}
