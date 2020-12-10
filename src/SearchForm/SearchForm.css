@@ -9,6 +9,11 @@
     margin: 0px 45px;
 }
 
+.search-form-sub-div {
+    margin: 10px;
+    padding: 10px;
+}
+
 button {
     height: 20px;
     margin-left: 30px;
